@@ -15,10 +15,10 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    ECell,
+    Examarly,
+    Finswealth,
+    MoodIndigo,
     carrent,
     jobit,
     tripguide,
@@ -117,8 +117,8 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      company_name: "Examarly",
+      icon: Examarly,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
@@ -130,8 +130,8 @@ import {
     },
     {
       title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      company_name: "Finswealth",
+      icon: Finswealth,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
@@ -143,8 +143,8 @@ import {
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      company_name: "MoodIndigo",
+      icon: MoodIndigo,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
@@ -156,8 +156,8 @@ import {
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      company_name: "ECell",
+      icon: ECell,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
