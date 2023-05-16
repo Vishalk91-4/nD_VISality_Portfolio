@@ -22,4 +22,4 @@ const StarWrapper = (Component, idName) =>
     );
   };
 
-export default ;
+export default StarWrapper;
