@@ -15,9 +15,9 @@ const ServiceCard = ({ index, title, icon }) => (
     >
       <div
         options={{
-          max: 45,
+          max: 75,
           scale: 1,
-          speed: 450,
+          speed: 900,
         }}
         className='bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col'
       >
