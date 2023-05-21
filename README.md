@@ -1,7 +1,9 @@
 # nD_VISality_Portfolio
+This README will be Updated every time till the Project Gets Completed, So Do wait, The Best is Loading
+
 Vishal's 3D Portfolio
 
-PortFolio will consist of :
+Single Page PortFolio consisting of :
 
 <1> About Section
 
