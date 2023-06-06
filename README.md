@@ -14,3 +14,9 @@ Single Page PortFolio consisting of :
 <4> Projects Made
 
 <5> Connect
+
+<Fully 3D Mode Website>
+
+<GitHub> Link also if anyone directly wants to contribute
+  
+<Discussion upon Mathematics Blogs, Personal Social Media Page
